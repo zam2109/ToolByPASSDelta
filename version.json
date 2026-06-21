@@ -1,4 +1,4 @@
-{ 
-  status = true
-  Message = "Phiên bản đang hoạt động "
+{
+  "status": true,
+  "Message": "Phiên bản đang hoạt động"
 }
