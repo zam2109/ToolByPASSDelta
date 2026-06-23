@@ -9,6 +9,7 @@ yes | pkg update
 yes | pkg upgrade
 yes | pkg i python
 yes | pkg i python-pip
+pkg install termux-api 
 pip install requests rich prettytable pytz pycryptodome colorama
 export CFLAGS="-Wno-error=implicit-function-declaration"
 pkg install python-psutil -y
